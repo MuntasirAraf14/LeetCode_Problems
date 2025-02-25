@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,4 +35,16 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
