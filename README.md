@@ -22,6 +22,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -39,10 +40,12 @@
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
