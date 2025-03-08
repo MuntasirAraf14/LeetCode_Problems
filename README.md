@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0039-combination-sum) |
@@ -53,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0217-contains-duplicate) |
