@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0169-majority-element) |
@@ -26,6 +27,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0217-contains-duplicate) |
@@ -38,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0242-valid-anagram) |
@@ -50,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0242-valid-anagram) |
