@@ -41,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
