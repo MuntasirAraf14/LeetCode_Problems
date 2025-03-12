@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0948-sort-an-array) |
+| [0965-unique-email-addresses](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2058-concatenation-of-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -49,6 +50,7 @@
 | [0131-palindrome-partitioning](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [0965-unique-email-addresses](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0965-unique-email-addresses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0169-majority-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0965-unique-email-addresses](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0965-unique-email-addresses) |
 ## Divide and Conquer
 |  |
 | ------- |
