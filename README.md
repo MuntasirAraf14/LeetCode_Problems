@@ -51,6 +51,7 @@
 | [0205-isomorphic-strings](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0965-unique-email-addresses](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0965-unique-email-addresses) |
 ## Dynamic Programming
 |  |
@@ -66,6 +67,7 @@
 | [0205-isomorphic-strings](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0965-unique-email-addresses](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0965-unique-email-addresses) |
 ## Divide and Conquer
 |  |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0948-sort-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
