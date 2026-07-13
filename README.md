@@ -34,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -47,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/MuntasirAraf14/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
